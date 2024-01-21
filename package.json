@@ -1,0 +1,12 @@
+{
+  "name": "api_rest_peliculas",
+  "version": "1.0.0",
+  "description": "use una api para aprender a hacer una app de peliculas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
